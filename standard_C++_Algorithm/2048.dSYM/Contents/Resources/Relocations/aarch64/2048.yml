@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pranavrathore/Downloads/2048-AI/2048-AI-master/standard_C++_Algorithm/2048'
+relocations:     []
+...
